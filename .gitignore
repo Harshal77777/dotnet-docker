@@ -1,0 +1,12 @@
+# Build & IDE
+bin/
+obj/
+.vscode/
+.vs/
+.idea/
+
+# Environment & Sensitive
+.env
+*.pem
+*.key
+*.tar.gz
