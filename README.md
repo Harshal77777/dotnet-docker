@@ -1,6 +1,4 @@
-<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/b5fca659-64fb-484d-bf67-2c538a12a577" />
-<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/f06bda7e-8f24-475d-bb5f-029694fdf600" />
-<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/40f0121e-283f-40b3-8b1d-2984f34ab627" />
+
 # MyWebApi - DevOps Hands-On Assessment
 
 ## 1. Overview
@@ -46,3 +44,13 @@ Both containers run inside a single Docker network created by Compose.
 The setup was tested on Ubuntu 24.04 (AWS EC2).
 
 Default ports 5000 (API) and 27017 (MongoDB) are open in EC2 security group.
+
+Screenshots 
+
+1 mongodb and app container 
+2 app and db connectivity
+3 mongodb logs
+<img width="1356" height="659" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/bd038a51-858b-41eb-857a-03a8094c5eda" />
+<img width="1366" height="715" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/8d2745db-d768-423f-8128-bdb9563e83a9" />
+<img width="1366" height="715" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/3e5a269d-0613-46c9-bd5e-faba50054de4" />
+
