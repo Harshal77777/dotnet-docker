@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/b5fca659-64fb-484d-bf67-2c538a12a577" />
+<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/f06bda7e-8f24-475d-bb5f-029694fdf600" />
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/40f0121e-283f-40b3-8b1d-2984f34ab627" />
 # MyWebApi - DevOps Hands-On Assessment
 
 ## 1. Overview
