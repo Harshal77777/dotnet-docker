@@ -43,11 +43,6 @@ curl http://localhost:5000/weatherforecast
 
 Both containers run inside a single Docker network created by Compose.
 
-MongoDB runs without authentication for testing purposes.
-<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/80003fbd-a884-4ac9-816a-7d568bda8a0c" />
-<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/0f520575-ca7d-4257-af26-c659f5182d42" />
-<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/e7d47b67-5a91-498b-b149-e3af92d0ef0c" />
-
 The setup was tested on Ubuntu 24.04 (AWS EC2).
 
 Default ports 5000 (API) and 27017 (MongoDB) are open in EC2 security group.
