@@ -14,7 +14,7 @@ The goal is to show:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Harshal77777/dotnet-docker
 cd dotnet-docker
 
 ## Step 2: Build and Run with Docker Compose
