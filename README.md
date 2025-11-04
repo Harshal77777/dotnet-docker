@@ -50,7 +50,8 @@ Screenshots
 1 mongodb and app container 
 2 app and db connectivity
 3 mongodb logs
-<img width="1356" height="659" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/bd038a51-858b-41eb-857a-03a8094c5eda" />
-<img width="1366" height="715" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/8d2745db-d768-423f-8128-bdb9563e83a9" />
-<img width="1366" height="715" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/3e5a269d-0613-46c9-bd5e-faba50054de4" />
+<img width="1356" height="659" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/8bd26377-364f-48aa-9ca2-883d1a792fe6" />
+<img width="1366" height="715" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/76e818b0-a763-44a3-9ee4-11db63307836" />
+<img width="1366" height="715" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/e42c1ed3-41b2-42f0-b088-6f0c4be52e57" />
+
 
